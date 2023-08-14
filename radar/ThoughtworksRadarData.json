@@ -2,7 +2,7 @@
   {
     "name": "Composer",
     "ring": "adopt",
-    "quadrant": "toools",
+    "quadrant": "tools",
     "isNew": "TRUE",
     "description": "Although the idea of dependency management ..."
   },
